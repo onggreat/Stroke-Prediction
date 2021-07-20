@@ -53,9 +53,8 @@ From distribution it is clear that every 4.9percent out of 100 people are having
 ![image](https://user-images.githubusercontent.com/74976732/126281584-cbf0e95e-ec3c-44fc-9a13-abc018974470.png)
 
 
-## modeling
-Data sampling is a technique where we either populate or reduce our data to make it balance. This is called oversampling and undersampling in general. Whereas model modifications are involved in the implementation of folds and cross-validation techniques
-
+## Modeling
+Data sampling is a technique where we either populate or reduce our data to make it balance. This is called oversampling and undersampling in general. Whereas model modifications are involved in the implementation of folds and cross-validation techniquesM
 Using recall will be a good evaluation matric but precision and recall will be able to work hand in hand.
 i will be trying 5 modeling To do testing:
 * KNN
