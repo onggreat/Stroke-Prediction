@@ -31,7 +31,7 @@ From distribution it is clear that every 4.9percent out of 100 people are having
 
 ## Problem Description 
 * Before starting actual analysis
-* First of all we will be doin data processing
+* First of all we will be do data processing
 * overview of univariate categorical features on stroke VS healthy
 * Plot smoking status, keep the 'unknown' observations, by doing this I treat smokers and non smokers as a one class, which would be alright if our variable is not important. #smoking is not good for health
 * that Age is a big factor in stroke patient
